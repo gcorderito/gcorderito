@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./banner.png" alt="Banner de perfil" width="100%">
+  <img src="./assets/img/banner.png" alt="Banner de perfil" width="100%">
 </p>
 
 **Software Developer | Systems Engineer**
