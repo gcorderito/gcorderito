@@ -34,6 +34,7 @@ Besides programming, I am a computer technical assistant, solving problems with 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 
   <br><br>
   **Frontend** <br>
@@ -52,6 +53,7 @@ Besides programming, I am a computer technical assistant, solving problems with 
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
   <br><br>
@@ -74,6 +76,12 @@ Besides programming, I am a computer technical assistant, solving problems with 
 </div>
 
 ---
+
+### 💡 Other knowledge and skills
+
+*   💬 **Languages:** I speak Spanish and English. I have ITEP B1 Certification.
+*   🌱 **Learning:** I can learn new Technologies if necessary.
+*   💻 **Working:** I can carry out activities as a team or independently.
 
 <!--
 **gcorderito/gcorderito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
