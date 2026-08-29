@@ -81,7 +81,7 @@ Besides programming, I am a computer technical assistant, solving problems with 
 
 ### 💡 Other knowledge and skills
 
-*   💬 **Languages:** I speak Spanish and English. I have ITEP B1 Certification.
+*   💬 **Languages:** I speak Spanish and English. Spanish is my native language. In English, I have an ITEP B1 certification.
 *   🌱 **Learning:** I can learn new Technologies if necessary.
 *   💻 **Working:** I can carry out activities as a team or independently.
 
