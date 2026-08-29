@@ -13,7 +13,7 @@ Besides programming, I am a computer technical assistant.
 *   💻 **Current Focus:** Developing financial and real estate management systems, implementing complex business logic for accounting closures and transaction reversals.
 *   ⚙️ **Infrastructure & DevOps:** Experience administering Linux servers (Ubuntu), relational databases (PostgreSQL/MariaDB), and self-hosted environments (CasaOS, VMware).
 *   🌱 **Currently Learning/Refining:** Modern frontend ecosystems (Angular, React, TypeScript) and backend architectures with C# (ASP.NET) and Spring Boot.
-*   📫 **How to reach me:** [Your Email Address] or connect via [Your LinkedIn].
+*   📫 **How to reach me:** gacorderocc@gmail.com or connect via https://www.instagram.com/gcorderito/.
 
 ---
 
