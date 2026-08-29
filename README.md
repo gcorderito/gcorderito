@@ -8,7 +8,7 @@
 
 I am passionate about software engineering and process optimization, currently working as the Systems Manager. I specialize in building robust web applications, database architecture, and infrastructure deployment, with a strong focus on **Laravel** and the PHP ecosystem.
 
-Besides programming, I am a computer technical assistant.
+Besides programming, I am a computer technical assistant, solving problems with technological devices.
 
 ---
 
