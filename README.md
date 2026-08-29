@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="./banner.png" alt="Banner de perfil" width="100%">
+</p>
+
 **Software Developer | Systems Engineer**
 
 I am passionate about software engineering and process optimization, currently working as the Systems Manager. I specialize in building robust web applications, database architecture, and infrastructure deployment, with a strong focus on **Laravel** and the PHP ecosystem.
