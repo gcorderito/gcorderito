@@ -33,7 +33,6 @@ Besides programming, I am a computer technical assistant.
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++%00599C?style=for-the-badge&logo=c++-sharp&logoColor=white" alt="C++" />
 
   <br><br>
   **Frontend** <br>
