@@ -14,7 +14,6 @@ Besides programming, I am a computer technical assistant, solving problems with 
 
 ### 🚀 About Me
 
-<!--*   💻 **Current Focus:** Developing financial management systems, implementing complex business logic for Applications, analysis and credit risk.-->
 *   💻 **Programming:** I have experience developing some web and desktop apps for 5 years.
 *   ⚙️ **Infrastructure & DevOps:** Experience administering servers (Windows Server, Linux), relational databases (PostgreSQL/MySQL), and containers (Docker).
 *   🌱 **Currently Learning/Refining:** Modern frontend ecosystems (Angular, React, TypeScript) and backend architectures with C# (ASP.NET) and Spring Boot.
@@ -84,7 +83,7 @@ Besides programming, I am a computer technical assistant, solving problems with 
 
 *   💬 **Languages:** I speak Spanish and English. Spanish is my native language. In English, I have an ITEP B1 certification.
 *   🌱 **Learning:** I can learn new Technologies if necessary.
-*   💻 **Working:** I can carry out activities as a team or independently.
+*   💻 **Working:** I can carry out activities as a team or independently, giving my best effort and ability.
 
 <!--
 **gcorderito/gcorderito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
