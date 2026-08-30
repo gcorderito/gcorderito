@@ -14,7 +14,8 @@ Besides programming, I am a computer technical assistant, solving problems with 
 
 ### 🚀 About Me
 
-*   💻 **Current Focus:** Developing financial management systems, implementing complex business logic for Applications, analysis and credit risk.
+<!--*   💻 **Current Focus:** Developing financial management systems, implementing complex business logic for Applications, analysis and credit risk.-->
+*   💻 **Programming:** I have experience developing some web and desktop apps for 5 years.
 *   ⚙️ **Infrastructure & DevOps:** Experience administering servers (Windows Server, Linux), relational databases (PostgreSQL/MySQL), and containers (Docker).
 *   🌱 **Currently Learning/Refining:** Modern frontend ecosystems (Angular, React, TypeScript) and backend architectures with C# (ASP.NET) and Spring Boot.
 *   📫 **How to reach me:** gacorderocc@gmail.com or connect via https://www.instagram.com/gcorderito/.
